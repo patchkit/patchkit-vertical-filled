@@ -1,6 +1,6 @@
 {
   "name": "patchkit-vertical-filled",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Height: 100% that works",
   "main": "index.jsx",
   "scripts": {
